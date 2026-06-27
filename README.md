@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vivre-pour-toi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Vivre Pour Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivre-pour-toi/) |
+| **Get License** | [Obtain a Music License for Vivre Pour Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivre-pour-toi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ton regard me foudroie, c'est l'appel de la nuit
+> Je sens battre ton cœur, baby, you are my fantasy
+> Sous les néons de Paris, on s'échappe sans un bruit
+> Viens rider avec moi, c'est le début de notre vie
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
