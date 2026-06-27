@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vivre-pour-toi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Vivre Pour Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivre-pour-toi/) |
+| **Get License** | [Commercial Licensing for Vivre Pour Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivre-pour-toi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `923b576d0f5ff766f9540cfc43364af76a7a5c614a9c225e925ed312a6494302` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
